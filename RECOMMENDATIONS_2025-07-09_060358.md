@@ -1,0 +1,3 @@
+- Consider expanding tests to cover plugin functions with zunit.
+- Add CI job to run `tools/run_tests.sh` automatically.
+- Provide additional YAML examples for macOS and Windows shells.
