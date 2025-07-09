@@ -1,0 +1,7 @@
+# Example configuration for Oh My Zsh deployment
+shell: zsh
+os: linux
+plugins:
+  - git
+  - sql-ai
+  - devops-extra

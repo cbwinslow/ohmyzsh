@@ -536,6 +536,14 @@ Thank you so much!
   <img src="https://contrib.rocks/image?repo=ohmyzsh/ohmyzsh" width="100%"/>
 </a>
 
+## Additional Tools
+
+- **chezmoi-install.sh**: one-click deployment using chezmoi.
+- **run_tests.sh**: validate plugin and theme syntax.
+- **sql-ai plugin**: SQL and AI helpers powered by Ollama.
+- **ai-agents/**: sample agents utilizing Ollama.
+
+
 ## Follow Us
 
 We're on social media:
